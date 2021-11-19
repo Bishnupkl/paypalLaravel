@@ -1,6 +1,5 @@
-# Lunch Hour Management System
+# Paypal Integration with Laravel
 
-This project is based on managing Lunch Hour system of any company.
 
 ### Installation:
 
